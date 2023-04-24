@@ -38,7 +38,7 @@
 .input {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .add-item__input {
@@ -136,7 +136,7 @@
 }
 
 .list > .input__text {
-    width: 226px
+    width: 226px;
 }
 
 .btn-delete__img {
@@ -159,12 +159,12 @@
 /* Edit Task */
 
 .content__list .input__text {
-    display: none
+    display: none;
 }
 
 .list__edit-mode .input__text {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 
 .list__edit-mode .list__label {
